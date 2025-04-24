@@ -1,5 +1,6 @@
 #Run the code and observe the x and y coordinates.
 #Task: Create a new `label3` with text 'bottom-right corner' and place it at the bottom-right.
+# Refer the image given in the SRM
 
 import customtkinter as ctk
 
